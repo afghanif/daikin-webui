@@ -1,0 +1,154 @@
+{
+  "hub": {
+    "title": "Solutions",
+    "subtitle": "Expert guidance to help you choose, install, and maintain the right air conditioning system."
+  },
+  "howToChoose": {
+    "title": "How to Choose the Right AC",
+    "subtitle": "A step-by-step guide to selecting the perfect air conditioning unit for your space.",
+    "steps": {
+      "1": {
+        "title": "Calculate Your Room Size",
+        "body": "Measure the length and width of your room. Use our AC Calculator to get a precise BTU and PK recommendation."
+      },
+      "2": {
+        "title": "Consider Room Factors",
+        "body": "South-facing rooms, kitchens, and server rooms require higher capacity. Our calculator accounts for these factors."
+      },
+      "3": {
+        "title": "Choose Inverter or Non-Inverter",
+        "body": "Inverter ACs adjust compressor speed for efficiency and quiet operation. For rooms used more than 6 hours daily, inverter is the smarter choice."
+      },
+      "4": {
+        "title": "Check Voltage Requirements",
+        "body": "Most residential units run on 220V. Larger commercial units may require 380V three-phase. Confirm your electrical supply before purchasing."
+      }
+    },
+    "cta": "Use Our AC Calculator"
+  },
+  "energy": {
+    "title": "Energy Efficiency & Inverter Guide",
+    "subtitle": "Understand how to save energy and reduce electricity bills with the right technology.",
+    "inverterVsNon": {
+      "title": "Inverter vs. Non-Inverter",
+      "inverter": {
+        "title": "Inverter AC",
+        "pros": ["Up to 50% energy savings", "Quieter operation", "Faster cooling", "Longer compressor lifespan", "More stable temperature"]
+      },
+      "nonInverter": {
+        "title": "Non-Inverter AC",
+        "pros": ["Lower purchase price", "Simpler technology", "Suitable for occasional use"]
+      }
+    },
+    "tips": {
+      "title": "Energy Saving Tips",
+      "tip1": "Set thermostat to 24–26°C for optimal comfort and efficiency.",
+      "tip2": "Clean filters monthly to maintain airflow and efficiency.",
+      "tip3": "Use sleep mode or timer to reduce overnight consumption.",
+      "tip4": "Seal gaps in windows and doors to prevent cool air from escaping.",
+      "tip5": "Use ceiling fans alongside AC to distribute cool air more evenly."
+    }
+  },
+  "calculator": {
+    "title": "AC Calculator",
+    "subtitle": "Find out exactly what capacity AC you need for your room.",
+    "steps": {
+      "1": {
+        "title": "Room Dimensions",
+        "length": "Room Length (m)",
+        "width": "Room Width (m)",
+        "next": "Next"
+      },
+      "2": {
+        "title": "Room Details",
+        "ceilingHeight": "Ceiling Height",
+        "low": "Low (≤ 2.5m)",
+        "standard": "Standard (2.6–3m)",
+        "high": "High (> 3m)",
+        "sunExposure": "Sun Exposure",
+        "shaded": "Shaded / North-facing",
+        "moderate": "Moderate",
+        "sunny": "Direct Sun / South-facing",
+        "next": "Next",
+        "back": "Back"
+      },
+      "3": {
+        "title": "Room Type",
+        "bedroom": "Bedroom",
+        "livingRoom": "Living Room",
+        "kitchen": "Kitchen",
+        "office": "Office",
+        "serverRoom": "Server Room",
+        "other": "Other",
+        "back": "Back",
+        "calculate": "Calculate"
+      },
+      "result": {
+        "title": "Your Result",
+        "recommended": "Recommended Capacity",
+        "btu": "Estimated BTU/h",
+        "roomArea": "Room Area",
+        "recalculate": "Recalculate",
+        "seeProducts": "See Matching Products"
+      }
+    },
+    "pichon": {
+      "thinking": "Let me calculate the perfect AC for your room...",
+      "result_low": "Great news! A {{pk}} PK unit is perfect for your room. Comfortable and efficient!",
+      "result_mid": "Your room needs a {{pk}} PK unit. I'd recommend an inverter model for the best efficiency!",
+      "result_high": "That's a large space! You'll need a {{pk}} PK unit - or consider two smaller units for better air distribution.",
+      "tip": "Remember to clean your filter every month for best performance!"
+    }
+  },
+  "airQuality": {
+    "title": "Indoor Air Quality Guide",
+    "subtitle": "Clean air is just as important as cool air. Here's how to ensure both.",
+    "pollutants": {
+      "title": "Common Indoor Pollutants",
+      "dust": {
+        "title": "Dust & Particulates",
+        "body": "Accumulated in filters, furniture, and HVAC ducts. Regular cleaning and high-efficiency filters help."
+      },
+      "mold": {
+        "title": "Mold & Bacteria",
+        "body": "Thrive in humid, poorly ventilated spaces. Daikin's Streamer Technology actively eliminates these threats."
+      },
+      "allergens": {
+        "title": "Pollen & Allergens",
+        "body": "Seasonal allergens that enter through windows and doors. Use AC with active filtration when pollen counts are high."
+      },
+      "voc": {
+        "title": "VOCs",
+        "body": "Volatile organic compounds from paint, furniture, and cleaning products. Good ventilation and air purification help reduce concentrations."
+      }
+    },
+    "solutions": {
+      "title": "Daikin Air Quality Solutions",
+      "streamer": "Streamer Technology for active decontamination",
+      "filter": "High-efficiency HEPA-grade filters",
+      "humidity": "Built-in humidity control for optimal 40–60% RH"
+    }
+  },
+  "maintenanceTips": {
+    "title": "Maintenance Tips",
+    "subtitle": "Simple steps to keep your Daikin AC running at its best for years.",
+    "monthly": {
+      "title": "Monthly",
+      "items": ["Clean the air filter with warm water and mild detergent", "Wipe the indoor unit housing with a damp cloth", "Check that the drain pipe is flowing freely"]
+    },
+    "quarterly": {
+      "title": "Every 3 Months",
+      "items": ["Inspect the outdoor unit for debris blockage", "Check refrigerant lines for frost or condensation", "Test all remote control functions"]
+    },
+    "annually": {
+      "title": "Annual",
+      "items": ["Book a professional deep-clean service", "Have a technician check refrigerant levels", "Inspect electrical connections and capacitors", "Clean the outdoor condenser coil"]
+    },
+    "pichon": {
+      "tip1": "A clean filter can save up to 15% on your electricity bill!",
+      "tip2": "Never spray water directly into the indoor unit - always remove the filter first.",
+      "tip3": "If you hear a strange noise, turn off the unit and call a technician. Don't ignore it!",
+      "tip4": "Keep outdoor units clear of leaves and debris for efficient heat exchange."
+    }
+  }
+}

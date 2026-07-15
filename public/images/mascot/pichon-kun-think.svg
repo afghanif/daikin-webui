@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" fill="none">
+  <!-- Body -->
+  <ellipse cx="100" cy="140" rx="60" ry="70" fill="#0097E0"/>
+  <!-- Belly -->
+  <ellipse cx="100" cy="150" rx="38" ry="48" fill="#ffffff"/>
+  <!-- Head tilted slightly -->
+  <circle cx="104" cy="72" r="48" fill="#0097E0"/>
+  <!-- Face white patch -->
+  <ellipse cx="104" cy="76" rx="30" ry="28" fill="#ffffff"/>
+  <!-- Eyes - one squinting (thinking) -->
+  <circle cx="92" cy="68" r="7" fill="#1A1A2E"/>
+  <circle cx="116" cy="68" r="7" fill="#1A1A2E"/>
+  <circle cx="94" cy="65" r="2.5" fill="#ffffff"/>
+  <circle cx="118" cy="65" r="2.5" fill="#ffffff"/>
+  <!-- Thinking expression -->
+  <path d="M92 83 Q104 88 116 83" stroke="#1A1A2E" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Beak -->
+  <ellipse cx="104" cy="88" rx="10" ry="7" fill="#F5A623"/>
+  <!-- Thought bubble -->
+  <circle cx="154" cy="36" r="16" fill="#E6F6FD" stroke="#0097E0" stroke-width="2"/>
+  <circle cx="143" cy="52" r="7" fill="#E6F6FD" stroke="#0097E0" stroke-width="2"/>
+  <circle cx="134" cy="62" r="4" fill="#E6F6FD" stroke="#0097E0" stroke-width="2"/>
+  <text x="147" y="42" font-family="Arial" font-size="16" fill="#0097E0" font-weight="bold">?</text>
+  <!-- Arms both down/slightly raised -->
+  <ellipse cx="44" cy="130" rx="18" ry="10" fill="#0097E0" transform="rotate(-10 44 130)"/>
+  <ellipse cx="156" cy="122" rx="18" ry="10" fill="#0097E0" transform="rotate(40 156 122)"/>
+  <!-- Feet -->
+  <ellipse cx="82" cy="205" rx="20" ry="10" fill="#F5A623"/>
+  <ellipse cx="118" cy="205" rx="20" ry="10" fill="#F5A623"/>
+  <!-- Cheeks -->
+  <circle cx="84" cy="80" r="8" fill="#4DC0F0" opacity="0.5"/>
+  <circle cx="124" cy="80" r="8" fill="#4DC0F0" opacity="0.5"/>
+</svg>

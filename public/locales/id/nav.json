@@ -1,0 +1,81 @@
+{
+  "profile": {
+    "label": "Tentang",
+    "about": "Tentang Daikin Indonesia",
+    "group": "Daikin Group",
+    "history": "Sejarah Kami",
+    "philosophy": "Filosofi Brand",
+    "technology": "Teknologi & Inovasi",
+    "streamer": "Streamer Technology",
+    "awards": "Penghargaan & Sertifikasi",
+    "tkdn": "Sertifikasi TKDN",
+    "discovery": "Daikin Discovery",
+    "vrv": "VRV Certified Dealer"
+  },
+  "products": {
+    "label": "Produk",
+    "residential": "Residential Solutions",
+    "commercial": "Commercial Solutions",
+    "accessories": "Accessories",
+    "spareParts": "Spare Parts",
+    "catalogue": "E-Catalogue"
+  },
+  "services": {
+    "label": "Layanan",
+    "ishop": "iShop (Residential)",
+    "proshop": "ProShop (Commercial)",
+    "maintenance": "Service & Maintenance",
+    "center": "Service Center",
+    "warranty": "Jaminan & Garansi",
+    "vrv": "VRV Certified Dealer",
+    "technicalData": "Data Teknis"
+  },
+  "solutions": {
+    "label": "Informasi",
+    "howToChoose": "Cara Memilih AC",
+    "energy": "Efisiensi Energi & Inverter",
+    "calculator": "Kalkulator AC",
+    "airQuality": "Kualitas Udara Dalam Ruangan",
+    "tips": "Tips Perawatan"
+  },
+  "insights": {
+    "label": "Wawasan",
+    "news": "Berita & Update",
+    "promotions": "Promosi",
+    "events": "Events & Kegiatan",
+    "training": "Training & Sertifikasi",
+    "csr": "Daikin Impact (CSR)",
+    "perfecting": "Perfecting The Air"
+  },
+  "dealer": {
+    "label": "Temukan Dealer"
+  },
+  "perfecting": {
+    "label": "Perfecting The Air",
+    "idealAir": "The Ideal Air",
+    "power": "The Power to Create",
+    "stories": "Perfecting The Air Stories"
+  },
+  "campaign": {
+    "label": "Campaign",
+    "idealAir": "The Ideal Air",
+    "power": "The Power to Create",
+    "perfecting": "Perfecting The Air Stories"
+  },
+  "competition": {
+    "label": "Kompetisi"
+  },
+  "careers": {
+    "label": "Karir"
+  },
+  "contact": {
+    "label": "Hubungi"
+  },
+  "footer": {
+    "company": "Perusahaan",
+    "products": "Produk",
+    "services": "Layanan",
+    "solutions": "Solusi",
+    "connect": "Hubungi Kami"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "hub": {
+    "title": "Insights",
+    "subtitle": "Stay informed with the latest news, promotions, and programs from Daikin Indonesia."
+  },
+  "news": {
+    "title": "News & Updates",
+    "subtitle": "The latest announcements, product launches, and industry news from Daikin.",
+    "searchPlaceholder": "Search articles...",
+    "filterAll": "All",
+    "categories": {
+      "product": "Product News",
+      "technology": "Technology",
+      "environment": "Environment",
+      "company": "Company News",
+      "tips": "Tips & Guides"
+    },
+    "readMore": "Read More",
+    "publishedOn": "Published",
+    "by": "by",
+    "share": "Share",
+    "relatedArticles": "Related Articles",
+    "backToNews": "Back to News"
+  },
+  "promotions": {
+    "title": "Promotions",
+    "subtitle": "Exclusive offers and special deals on Daikin products and services.",
+    "validUntil": "Valid until",
+    "termsApply": "Terms & conditions apply",
+    "claimOffer": "Claim Offer",
+    "contactDealer": "Contact a Dealer",
+    "noPromos": "No active promotions at this time. Check back soon!",
+    "categories": {
+      "all": "All Promotions",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "service": "Service"
+    }
+  },
+  "events": {
+    "title": "Events & Activities",
+    "subtitle": "Join us at exhibitions, seminars, and community events across Indonesia.",
+    "upcoming": "Upcoming Events",
+    "past": "Past Events",
+    "register": "Register",
+    "learnMore": "Learn More",
+    "location": "Location",
+    "date": "Date",
+    "time": "Time",
+    "free": "Free Entry",
+    "noEvents": "No upcoming events scheduled. Follow us on social media for announcements."
+  },
+  "training": {
+    "title": "Training & Certification",
+    "subtitle": "Professional development programs for Daikin dealers, technicians, and partners.",
+    "programs": {
+      "title": "Available Programs",
+      "basic": {
+        "title": "Basic Technician",
+        "duration": "3 days",
+        "description": "Foundational installation, commissioning, and maintenance skills."
+      },
+      "advanced": {
+        "title": "Advanced Service",
+        "duration": "5 days",
+        "description": "Troubleshooting, refrigerant handling, and complex system diagnostics."
+      },
+      "commercial": {
+        "title": "Commercial Systems",
+        "duration": "5 days",
+        "description": "VRV/VRF systems, BMS integration, and large-scale project management."
+      },
+      "sales": {
+        "title": "Sales Professional",
+        "duration": "2 days",
+        "description": "Product knowledge, consultation skills, and customer service excellence."
+      }
+    },
+    "enroll": "Enroll Now",
+    "downloadSchedule": "Download Schedule",
+    "certification": "Upon completion, participants receive an official Daikin certification valid for 2 years."
+  },
+  "csr": {
+    "title": "Daikin Impact",
+    "subtitle": "Our commitment to communities and the environment across Indonesia.",
+    "pillars": {
+      "environment": {
+        "title": "Environment",
+        "description": "Reducing carbon footprint through energy-efficient products and green operations."
+      },
+      "education": {
+        "title": "Education",
+        "description": "Technical scholarships and vocational training for underprivileged youth."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Supporting local communities through disaster relief and public health initiatives."
+      }
+    },
+    "impact": {
+      "treesPlanted": "Trees Planted",
+      "scholars": "Scholars Supported",
+      "communities": "Communities Reached",
+      "co2Reduced": "Tons CO₂ Reduced"
+    }
+  }
+}

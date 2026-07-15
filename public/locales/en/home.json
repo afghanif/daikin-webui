@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "tagBadge": "Indonesia's Leading Air Solutions",
+    "title": "Perfecting",
+    "titleAccent": "the Air",
+    "subtitle": "Daikin's air conditioning technology delivers optimal comfort, high energy efficiency, and clean air for your home and business."
+  },
+  "products": {"title": "Featured Products", "subtitle": "Find the best air cooling solutions for every need - from residential to commercial buildings."},
+  "why": {"title": "Why Daikin?", "subtitle": "More than just air conditioning - Daikin is an investment in air quality and long-term comfort."},
+  "stats": {"title": "Daikin by the Numbers", "subtitle": "Global trust proven over more than a century."},
+  "streamer": {"description": "Daikin's exclusive Streamer Technology generates high-energy electron streams that actively disinfect air, killing viruses, bacteria, and neutralizing harmful allergens."},
+  "news": {"title": "Latest News & Insights", "subtitle": "Stay informed with the latest news, promotions, and programs from Daikin Indonesia."},
+  "cta": {"title": "Ready to Experience Perfect Air?", "subtitle": "Find your nearest official Daikin dealer or calculate your AC needs now."}
+}

@@ -1,0 +1,81 @@
+{
+  "profile": {
+    "label": "Profile",
+    "about": "About Daikin Indonesia",
+    "group": "Daikin Group",
+    "history": "Our History",
+    "philosophy": "Brand Philosophy",
+    "technology": "Technology & Innovation",
+    "streamer": "Streamer Technology",
+    "awards": "Awards & Certifications",
+    "tkdn": "TKDN Certification",
+    "discovery": "Daikin Discovery",
+    "vrv": "VRV Certified Dealer"
+  },
+  "products": {
+    "label": "Products",
+    "residential": "Residential Solutions",
+    "commercial": "Commercial Solutions",
+    "accessories": "Accessories",
+    "spareParts": "Spare Parts",
+    "catalogue": "E-Catalogue"
+  },
+  "services": {
+    "label": "Services",
+    "ishop": "iShop (Residential)",
+    "proshop": "ProShop (Commercial)",
+    "maintenance": "Service & Maintenance",
+    "center": "Service Center",
+    "warranty": "Warranty & Support",
+    "vrv": "VRV Certified Dealer",
+    "technicalData": "Technical Data"
+  },
+  "solutions": {
+    "label": "Information",
+    "howToChoose": "How to Choose AC",
+    "energy": "Energy Efficiency & Inverter",
+    "calculator": "AC Calculator",
+    "airQuality": "Indoor Air Quality",
+    "tips": "Maintenance Tips"
+  },
+  "insights": {
+    "label": "Insights",
+    "news": "News & Updates",
+    "promotions": "Promotions",
+    "events": "Events & Activities",
+    "training": "Training & Certification",
+    "csr": "Daikin Impact (CSR)",
+    "perfecting": "Perfecting The Air"
+  },
+  "dealer": {
+    "label": "Find Dealer"
+  },
+  "perfecting": {
+    "label": "Perfecting The Air",
+    "idealAir": "The Ideal Air",
+    "power": "The Power to Create",
+    "stories": "Perfecting The Air Stories"
+  },
+  "campaign": {
+    "label": "Campaign",
+    "idealAir": "The Ideal Air",
+    "power": "The Power to Create",
+    "perfecting": "Perfecting The Air Stories"
+  },
+  "competition": {
+    "label": "Competition"
+  },
+  "careers": {
+    "label": "Careers"
+  },
+  "contact": {
+    "label": "Contact"
+  },
+  "footer": {
+    "company": "Company",
+    "products": "Products",
+    "services": "Services",
+    "solutions": "Solutions",
+    "connect": "Contact Us"
+  }
+}

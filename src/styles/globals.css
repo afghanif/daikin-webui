@@ -1,0 +1,186 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  body {
+    @apply text-charcoal bg-white antialiased;
+  }
+
+  ::selection {
+    @apply bg-daikin-blue text-white;
+  }
+
+  * {
+    @apply box-border;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-bold;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 bg-daikin-blue text-white font-semibold rounded-btn
+      hover:bg-daikin-blue-dark active:scale-95 transition-all duration-200 focus-visible:outline-none
+      focus-visible:ring-2 focus-visible:ring-daikin-blue focus-visible:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-daikin-blue font-semibold
+      rounded-btn border-2 border-daikin-blue hover:bg-daikin-blue-50 active:scale-95 transition-all
+      duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-daikin-blue
+      focus-visible:ring-offset-2;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 text-daikin-blue font-semibold
+      rounded-btn hover:bg-daikin-blue-50 active:scale-95 transition-all duration-200;
+  }
+
+  .btn-white {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-daikin-blue font-semibold
+      rounded-btn hover:bg-daikin-blue-50 active:scale-95 transition-all duration-200;
+  }
+
+  .floating-card {
+    @apply bg-white rounded-card shadow-card hover:shadow-card-hover transition-all duration-300;
+  }
+
+  .section-container {
+    @apply py-16 md:py-24 px-4 md:px-8 max-w-7xl mx-auto;
+  }
+
+  .section-container-sm {
+    @apply py-12 md:py-16 px-4 md:px-8 max-w-7xl mx-auto;
+  }
+
+  .section-bg-light {
+    @apply bg-soft-gray;
+  }
+
+  .section-bg-blue {
+    @apply bg-daikin-blue-50;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 rounded-btn border border-soft-gray-2 bg-white text-charcoal
+      placeholder:text-gray-400 focus:outline-none focus:border-daikin-blue focus:ring-2
+      focus:ring-daikin-blue/20 transition-all duration-200;
+  }
+
+  .select-field {
+    @apply w-full px-4 py-3 rounded-btn border border-soft-gray-2 bg-white text-charcoal
+      focus:outline-none focus:border-daikin-blue focus:ring-2 focus:ring-daikin-blue/20
+      transition-all duration-200 appearance-none cursor-pointer;
+  }
+
+  .badge-new {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold
+      bg-green-100 text-green-700;
+  }
+
+  .badge-bestseller {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold
+      bg-daikin-blue-50 text-daikin-blue;
+  }
+
+  .badge-promo {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold
+      bg-orange-100 text-orange-700;
+  }
+
+  .nav-link {
+    @apply text-charcoal-light font-medium hover:text-daikin-blue transition-colors duration-200 relative;
+  }
+
+  .nav-link-active {
+    @apply text-daikin-blue font-semibold;
+  }
+
+  .section-heading {
+    @apply text-3xl md:text-4xl font-bold text-charcoal mb-4;
+  }
+
+  .section-subheading {
+    @apply text-lg text-gray-600 leading-relaxed;
+  }
+
+  .accent-line {
+    @apply w-12 h-1 bg-daikin-blue rounded-full mb-6;
+  }
+
+  .wave-bg {
+    background: linear-gradient(135deg, #0097E0 0%, #4DC0F0 100%);
+  }
+
+  .hero-overlay {
+    background: linear-gradient(135deg, rgba(0,151,224,0.92) 0%, rgba(0,114,168,0.85) 100%);
+  }
+
+  .glass {
+    @apply bg-white/90 backdrop-blur-md;
+  }
+}
+
+/* Swiper overrides */
+.swiper-pagination-bullet {
+  background: rgba(255, 255, 255, 0.5) !important;
+  opacity: 1 !important;
+  width: 8px !important;
+  height: 8px !important;
+  transition: all 0.3s ease !important;
+}
+.swiper-pagination-bullet-active {
+  background: #ffffff !important;
+  width: 28px !important;
+  border-radius: 4px !important;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  display: none !important;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+
+  .bg-wave-gradient {
+    background: linear-gradient(135deg, #0097E0 0%, #4DC0F0 100%);
+  }
+
+  .clip-wave {
+    clip-path: ellipse(100% 60% at 50% 40%);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.skeleton-shimmer {
+  background: linear-gradient(90deg, #eaedf1 25%, #f5f7fa 50%, #eaedf1 75%);
+  background-size: 400% 100%;
+  animation: shimmer 1.4s infinite linear;
+}

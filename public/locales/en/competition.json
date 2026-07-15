@@ -1,0 +1,13 @@
+{
+  "title": "Competition",
+  "subtitle": "Stay tuned for exciting competitions and challenges from Daikin Indonesia.",
+  "comingSoon": {
+    "title": "Coming Soon",
+    "body": "Something exciting is on the way. Follow our social media channels for the latest announcements.",
+    "notify": "Notify Me"
+  },
+  "pastCompetitions": {
+    "title": "Past Competitions",
+    "viewResults": "View Results"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "about": {
+    "title": "About Daikin Indonesia",
+    "subtitle": "Building a sustainable future through air technology since 1976.",
+    "founded": "Founded",
+    "employees": "Employees",
+    "dealers": "Authorized Dealers",
+    "coverage": "National Coverage",
+    "mission": {
+      "title": "Our Mission",
+      "body": "To deliver innovative air conditioning solutions that enhance comfort, improve air quality, and support environmental sustainability across Indonesia."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "To be Indonesia's most trusted air solutions partner, recognized for excellence in technology, service, and environmental responsibility."
+    }
+  },
+  "group": {
+    "title": "Daikin Group",
+    "subtitle": "A global leader in air conditioning technology, present in over 170 countries.",
+    "established": "Established",
+    "countries": "Countries",
+    "revenue": "Annual Revenue",
+    "employees": "Global Employees",
+    "globalHq": "Global Headquarters",
+    "osaka": "Osaka, Japan"
+  },
+  "history": {
+    "title": "Our History",
+    "subtitle": "A journey of innovation and growth spanning over five decades in Indonesia.",
+    "timeline": {
+      "1976": "PT Daikin Airconditioning Indonesia established in Jakarta.",
+      "1985": "First manufacturing facility opened, beginning local production.",
+      "1995": "Nationwide dealer network reaches 200 authorized partners.",
+      "2008": "Launch of inverter technology line for Indonesian market.",
+      "2015": "Introduction of Streamer Technology for air purification.",
+      "2020": "Digital transformation - online dealer locator and e-catalogue launched.",
+      "2024": "50,000+ active dealer network across all 34 provinces."
+    }
+  },
+  "philosophy": {
+    "title": "Brand Philosophy",
+    "subtitle": "The values that guide everything we do.",
+    "tagline": "Perfecting the Air",
+    "values": {
+      "innovation": {
+        "title": "Innovation",
+        "body": "Continuously pushing the boundaries of air technology to deliver better solutions."
+      },
+      "quality": {
+        "title": "Quality",
+        "body": "Uncompromising standards in every product we design, manufacture, and deliver."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "body": "Committed to reducing environmental impact through energy-efficient products."
+      },
+      "people": {
+        "title": "People",
+        "body": "Putting customers and communities at the heart of every decision."
+      }
+    }
+  },
+  "technology": {
+    "title": "Technology & Innovation",
+    "subtitle": "The advanced technologies that set Daikin apart.",
+    "inverter": {
+      "title": "Inverter Technology",
+      "body": "Daikin's variable-speed inverter compressor adjusts output to match room conditions, delivering up to 50% energy savings compared to conventional units."
+    },
+    "refrigerant": {
+      "title": "R-32 Refrigerant",
+      "body": "Our transition to R-32 refrigerant reduces environmental impact with a Global Warming Potential two-thirds lower than the previous R-410A standard."
+    },
+    "streamer": {
+      "title": "Streamer Technology",
+      "body": "Exclusive high-speed plasma discharge technology that actively decomposes harmful substances, allergens, and odors."
+    },
+    "coanda": {
+      "title": "Coanda Airflow",
+      "body": "Intelligent airflow design that distributes cool air evenly across the room, eliminating cold spots."
+    }
+  },
+  "streamer": {
+    "title": "Streamer Technology",
+    "subtitle": "Daikin's breakthrough air purification technology.",
+    "howItWorks": "How It Works",
+    "step1": "Plasma discharge unit generates high-speed electron streams",
+    "step2": "Electrons decompose harmful pollutants at the molecular level",
+    "step3": "Clean, purified air is circulated back into the room",
+    "benefits": {
+      "virus": "Inactivates 99.9% of influenza viruses",
+      "bacteria": "Eliminates harmful bacteria and mold",
+      "allergens": "Decomposes pollen and dust mite allergens",
+      "odor": "Neutralizes odors and VOCs"
+    }
+  },
+  "awards": {
+    "title": "Awards & Certifications",
+    "subtitle": "Recognition of our commitment to excellence and innovation.",
+    "categories": {
+      "energy": "Energy Efficiency",
+      "quality": "Quality & Safety",
+      "environment": "Environment",
+      "service": "Service Excellence"
+    }
+  }
+}

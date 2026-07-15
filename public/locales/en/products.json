@@ -1,0 +1,63 @@
+{
+  "filter": {
+    "all": "All",
+    "inverterOnly": "Inverter Only"
+  },
+  "badge": {
+    "new": "New",
+    "bestseller": "Best Seller",
+    "promo": "Promo"
+  },
+  "specs": {
+    "pk": "Capacity",
+    "btu": "BTU/h",
+    "coverage": "Coverage",
+    "voltage": "Voltage",
+    "powerInput": "Power Input",
+    "cop": "COP"
+  },
+  "cta": {
+    "contactDealer": "Contact Dealer",
+    "findIshop": "Find Nearest iShop",
+    "viewAll": "View All Products"
+  },
+  "residential": {
+    "title": "Residential Solutions",
+    "subtitle": "High-efficiency air conditioning for your home comfort.",
+    "filterLabel": "Filter by Capacity"
+  },
+  "commercial": {
+    "title": "Commercial Solutions",
+    "subtitle": "Professional air conditioning systems for commercial buildings and offices.",
+    "types": {
+      "split": "Split AC",
+      "cassette": "Cassette AC",
+      "floor": "Floor Standing",
+      "duct": "Ducted System",
+      "vrv": "VRV/VRF System",
+      "chiller": "Chiller"
+    }
+  },
+  "accessories": {
+    "title": "Accessories",
+    "subtitle": "Complete your Daikin system with genuine accessories."
+  },
+  "spareParts": {
+    "title": "Spare Parts",
+    "subtitle": "Genuine Daikin spare parts for optimal performance.",
+    "searchPlaceholder": "Search spare parts..."
+  },
+  "eCatalogue": {
+    "title": "E-Catalogue",
+    "subtitle": "Browse our complete product catalogue in digital format.",
+    "download": "Download PDF",
+    "view": "View Online"
+  },
+  "detail": {
+    "specifications": "Specifications",
+    "features": "Key Features",
+    "relatedProducts": "Related Products",
+    "inquire": "Inquire Now",
+    "findDealer": "Find Dealer"
+  }
+}

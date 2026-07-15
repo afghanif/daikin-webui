@@ -1,0 +1,24 @@
+{
+  "calculator": {
+    "title": "Kalkulator AC",
+    "subtitle": "Hitung kapasitas AC yang tepat untuk ruangan Anda",
+    "step1": "Dimensi Ruangan",
+    "step2": "Kondisi Ruangan",
+    "step3": "Jenis Ruangan",
+    "result": "Rekomendasi Daikin",
+    "pichon": {
+      "step1": "Masukkan ukuran ruangan Anda ya! 📏",
+      "step2": "Bagus! Sekarang info kondisi ruangannya dong 😊",
+      "step3": "Hampir selesai! Pilih jenis ruangannya 🏠",
+      "result": "Ini rekomendasi terbaik dari saya! Cocok banget buat ruanganmu 😊"
+    }
+  },
+  "tips": {
+    "pichon": {
+      "howToChoose": "Perlu bantuan memilih AC? Gunakan Kalkulator AC Daikin untuk rekomendasi yang tepat!",
+      "energy": "Dengan AC inverter Daikin, tagihan listrikmu bisa lebih hemat hingga 60%! 💡",
+      "airQuality": "Udara bersih itu penting! AC Daikin dengan Streamer Technology aktif membersihkan udara 24 jam. 🌬️",
+      "maintenance": "Ingat! Filter kotor bikin boros listrik. Bersihkan setiap 2 minggu ya! 🔧"
+    }
+  }
+}

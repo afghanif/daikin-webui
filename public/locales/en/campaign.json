@@ -1,0 +1,67 @@
+{
+  "hub": {
+    "title": "Campaign",
+    "subtitle": "Stories, ideas, and visions that define what Daikin stands for.",
+    "exploreAll": "Explore All Campaigns"
+  },
+  "idealAir": {
+    "title": "The Ideal Air",
+    "subtitle": "What does the perfect air feel like? Daikin's answer is found in science, comfort, and harmony.",
+    "intro": "The ideal air isn't just about temperature. It's about humidity, purity, movement, and how the air makes you feel - at home, at work, and everywhere in between.",
+    "pillars": {
+      "temperature": {
+        "title": "Perfect Temperature",
+        "body": "Consistent, precise cooling that adapts to your body and activity level."
+      },
+      "humidity": {
+        "title": "Ideal Humidity",
+        "body": "40–60% relative humidity for comfort, health, and protecting your home and belongings."
+      },
+      "purity": {
+        "title": "Clean Air",
+        "body": "Free from viruses, bacteria, allergens, and pollutants - air you can truly breathe."
+      },
+      "flow": {
+        "title": "Natural Airflow",
+        "body": "Gentle, even distribution that mimics natural breezes without direct drafts."
+      }
+    }
+  },
+  "powerToCreate": {
+    "title": "The Power to Create the Air of the Future",
+    "subtitle": "Daikin's vision for sustainable, intelligent air solutions in the decades ahead.",
+    "vision": "We believe the next generation of air conditioning will not just cool - it will heal, energize, and sustain. Daikin is building that future today.",
+    "initiatives": {
+      "r32": {
+        "title": "R-32 Refrigerant",
+        "body": "Industry-wide transition to lower-GWP refrigerants, reducing climate impact by two-thirds."
+      },
+      "ai": {
+        "title": "AI-Powered Comfort",
+        "body": "Machine learning algorithms that learn your preferences and optimize comfort automatically."
+      },
+      "renewable": {
+        "title": "Renewable Integration",
+        "body": "Systems designed to work seamlessly with solar panels and other renewable energy sources."
+      },
+      "circular": {
+        "title": "Circular Economy",
+        "body": "Designing products for repairability, recyclability, and minimal end-of-life waste."
+      }
+    }
+  },
+  "perfectingAir": {
+    "title": "Perfecting The Air Stories",
+    "subtitle": "Real stories from Daikin customers and communities whose lives have been transformed by cleaner, better air.",
+    "stories": {
+      "intro": "Every Daikin installation tells a story. A hospital that reduced infection rates. A school where students learn in comfort. A home where a child with asthma sleeps through the night.",
+      "cta": "Share Your Story"
+    },
+    "featured": "Featured Stories",
+    "submit": {
+      "title": "Share Your Story",
+      "description": "Has Daikin made a difference in your life or business? We'd love to hear from you.",
+      "button": "Submit Your Story"
+    }
+  }
+}

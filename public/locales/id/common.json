@@ -1,0 +1,20 @@
+{
+  "cta": {
+    "exploreProducts": "Lihat Produk",
+    "calculator": "Kalkulator AC",
+    "contactDealer": "Hubungi Dealer",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "seeAll": "Lihat Semua"
+  },
+  "404": {
+    "title": "Halaman Tidak Ditemukan",
+    "pichon_message": "Aduh, halaman ini tidak ditemukan! Yuk kembali ke beranda! 😊",
+    "back_home": "Kembali ke Beranda"
+  },
+  "footer": {
+    "description": "Solusi pendingin udara terdepan untuk hunian dan komersial di Indonesia sejak 1976."
+  },
+  "nav": {
+    "home": "Beranda"
+  }
+}

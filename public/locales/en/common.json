@@ -1,0 +1,20 @@
+{
+  "cta": {
+    "exploreProducts": "Explore Products",
+    "calculator": "AC Calculator",
+    "contactDealer": "Contact Dealer",
+    "learnMore": "Learn More",
+    "seeAll": "See All"
+  },
+  "404": {
+    "title": "Page Not Found",
+    "pichon_message": "Oops, this page doesn't exist! Let's go back home! 😊",
+    "back_home": "Back to Home"
+  },
+  "footer": {
+    "description": "Leading air conditioning solutions for residential and commercial in Indonesia since 1976."
+  },
+  "nav": {
+    "home": "Home"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Careers at Daikin",
+  "subtitle": "Join a global leader in air technology and build a career that matters.",
+  "hero": {
+    "title": "Grow With Us",
+    "body": "Daikin Indonesia offers challenging, rewarding careers across engineering, sales, marketing, service, and corporate functions."
+  },
+  "whyJoin": {
+    "title": "Why Join Daikin?",
+    "global": {
+      "title": "Global Company",
+      "body": "Be part of a Fortune 500 company with operations in 170+ countries."
+    },
+    "growth": {
+      "title": "Career Growth",
+      "body": "Structured career paths with mentoring, training, and international mobility."
+    },
+    "impact": {
+      "title": "Meaningful Work",
+      "body": "Work on products that improve air quality and quality of life for millions."
+    },
+    "benefits": {
+      "title": "Great Benefits",
+      "body": "Competitive salary, health insurance, pension, and performance bonuses."
+    }
+  },
+  "openings": {
+    "title": "Open Positions",
+    "filterAll": "All Departments",
+    "departments": {
+      "engineering": "Engineering",
+      "sales": "Sales & Marketing",
+      "service": "Service & Technical",
+      "corporate": "Corporate",
+      "supply": "Supply Chain"
+    },
+    "fullTime": "Full Time",
+    "partTime": "Part Time",
+    "contract": "Contract",
+    "remote": "Remote",
+    "hybrid": "Hybrid",
+    "onsite": "On-site",
+    "apply": "Apply Now",
+    "noJobs": "No open positions in this department right now. Check back soon or send us your resume."
+  },
+  "detail": {
+    "about": "About This Role",
+    "responsibilities": "Responsibilities",
+    "requirements": "Requirements",
+    "niceToHave": "Nice to Have",
+    "benefits": "What We Offer",
+    "location": "Location",
+    "department": "Department",
+    "type": "Employment Type",
+    "apply": "Apply for This Position",
+    "deadline": "Application Deadline",
+    "back": "Back to All Jobs"
+  },
+  "apply": {
+    "title": "Apply for",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "resume": "Resume / CV",
+    "coverLetter": "Cover Letter (optional)",
+    "linkedin": "LinkedIn Profile (optional)",
+    "submit": "Submit Application",
+    "submitting": "Submitting...",
+    "success": {
+      "title": "Application Submitted!",
+      "body": "Thank you for your interest. We'll review your application and get back to you within 2 weeks.",
+      "close": "Close"
+    }
+  }
+}

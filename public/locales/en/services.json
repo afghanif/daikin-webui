@@ -1,0 +1,127 @@
+{
+  "hub": {
+    "title": "Services & Dealers",
+    "subtitle": "Find the right service and support for your Daikin products.",
+    "cards": {
+      "ishop": {
+        "title": "iShop",
+        "description": "Authorized residential dealers near you."
+      },
+      "proshop": {
+        "title": "ProShop",
+        "description": "Specialized commercial AC solutions partners."
+      },
+      "maintenance": {
+        "title": "Service & Maintenance",
+        "description": "Regular servicing to keep your unit performing at its best."
+      },
+      "center": {
+        "title": "Service Center",
+        "description": "Official Daikin service centers for repairs and warranty claims."
+      },
+      "warranty": {
+        "title": "Warranty & Support",
+        "description": "Coverage details and how to register your product."
+      }
+    }
+  },
+  "ishop": {
+    "title": "iShop - Residential Dealers",
+    "subtitle": "Find an authorized Daikin residential dealer near you.",
+    "searchPlaceholder": "Search by city or area...",
+    "filterProvince": "Filter by Province",
+    "allProvinces": "All Provinces",
+    "results": "dealers found",
+    "noResults": "No dealers found in this area. Try a different search.",
+    "contact": "Contact",
+    "directions": "Get Directions",
+    "hours": "Business Hours",
+    "services": "Services Offered"
+  },
+  "proshop": {
+    "title": "ProShop - Commercial Solutions",
+    "subtitle": "Expert partners for commercial and industrial air conditioning projects.",
+    "tiers": {
+      "platinum": {
+        "title": "Platinum Partner",
+        "description": "Our top-tier commercial partners with full project management capability."
+      },
+      "gold": {
+        "title": "Gold Partner",
+        "description": "Certified commercial installers for mid-to-large projects."
+      },
+      "silver": {
+        "title": "Silver Partner",
+        "description": "Qualified commercial dealers for small-to-medium installations."
+      }
+    }
+  },
+  "maintenance": {
+    "title": "Service & Maintenance",
+    "subtitle": "Keep your Daikin system running at peak efficiency.",
+    "plans": {
+      "basic": {
+        "title": "Basic Service",
+        "includes": ["Filter cleaning", "Coil inspection", "Refrigerant check", "Electrical safety check"]
+      },
+      "standard": {
+        "title": "Standard Service",
+        "includes": ["All Basic items", "Deep coil cleaning", "Drainage system flush", "Performance testing", "Written service report"]
+      },
+      "premium": {
+        "title": "Premium Service",
+        "includes": ["All Standard items", "Compressor health check", "Refrigerant top-up (if needed)", "Priority scheduling", "12-month service guarantee"]
+      }
+    },
+    "bookNow": "Book Service",
+    "callUs": "Call Our Service Line"
+  },
+  "center": {
+    "title": "Service Center",
+    "subtitle": "Official Daikin service centers across Indonesia.",
+    "searchPlaceholder": "Search by city...",
+    "filterProvince": "Province",
+    "allProvinces": "All Provinces",
+    "services": {
+      "repair": "Repair Services",
+      "warranty": "Warranty Claims",
+      "spare": "Spare Parts",
+      "consultation": "Technical Consultation"
+    }
+  },
+  "warranty": {
+    "title": "Warranty & Support",
+    "subtitle": "Daikin stands behind every product we sell.",
+    "coverage": {
+      "title": "Warranty Coverage",
+      "compressor": {
+        "title": "Compressor",
+        "period": "5 years"
+      },
+      "parts": {
+        "title": "Parts & Components",
+        "period": "2 years"
+      },
+      "labor": {
+        "title": "Labor",
+        "period": "1 year"
+      }
+    },
+    "register": {
+      "title": "Register Your Product",
+      "description": "Register within 30 days of purchase to activate your full warranty.",
+      "cta": "Register Now"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How do I claim warranty?",
+      "a1": "Contact any authorized Daikin service center with your proof of purchase and product serial number. Warranty claims are processed within 3–5 business days.",
+      "q2": "What voids the warranty?",
+      "a2": "Warranty is voided by unauthorized modification, improper installation, physical damage, or use of non-genuine spare parts.",
+      "q3": "Can I transfer my warranty?",
+      "a3": "Warranty is tied to the product serial number, not the owner. If you sell your property, the remaining warranty transfers to the new owner automatically.",
+      "q4": "What is not covered?",
+      "a4": "Consumables (filters), cosmetic damage, damage from power surges or natural disasters, and routine maintenance are not covered under warranty."
+    }
+  }
+}
